@@ -1,4 +1,7 @@
 ### Hi there 👋
+# My names Cliff. I'm a recent graduate of Coding Dojo
+# I'm currently working on a number of projects, studying algorithms and preparing for interviews
+# Open to any and all (useful) feedback pertaining to anything programming or design
 
 <!--
 **cliffordstevenson/cliffordstevenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
