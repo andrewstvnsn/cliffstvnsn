@@ -14,7 +14,7 @@
  </a>
 <a href/>
 
-My name's Cliff. I'm a graduate of Coding Dojo full-stack web development bootcamp and anclassically-trained international prize-winning guitarist.
+My name's Cliff. I'm a graduate of Coding Dojo full-stack web development bootcamp and a classically-trained international prize-winning guitarist.
 I'm currently working on a number of projects. Check them out via GitHub or my [portfolio page](https://cliffstevensonsites.online/). <em>I'm currently working on updating my portfolio and previous projects, studying algorithms and preparing for interviews</em>
 
 ### Open to any and all (useful) feedback pertaining to anything programming or design
