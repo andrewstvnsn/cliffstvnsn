@@ -23,7 +23,7 @@ I'm currently working on a number of projects. Check them out via GitHub or my [
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=cliffstvnsn&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliffordstvnsn&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliffstvnsn&layout=compact" />
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
