@@ -36,13 +36,14 @@ I'm currently working on a number of projects. Check them out via GitHub or my [
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 
+
+##
 ----
-<a name="learning"></a>
 
-### Currently Working On
 
-- 🔭 I’m currently working on ... Building a ChatGPT Project in my spare time
-- 🌱 I’m currently learning ... Web 3, my Harvard Certification in Algorithms and Data Structures
+
+- 🔭 I’m currently working on ... my Harvard Certification, building a ChatGPT Project in my spare time
+- 🌱 I’m currently learning ... Swift, Web 3 
 
 
 
