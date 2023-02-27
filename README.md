@@ -43,7 +43,7 @@ I'm currently working on a number of projects. Check them out via GitHub or my [
 
 
 - 🔭 I’m currently working on ... my Harvard Certification, building a ChatGPT Project in my spare time
-- 🌱 I’m currently learning ... Swift, Web 3 
+- 🌱 I’m currently learning ... Mobile dev (Swift, Java), Web 3 
 
 
 
