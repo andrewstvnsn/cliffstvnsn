@@ -2,7 +2,7 @@
 
 **`Software Engineer (Developer, Web Development)`**
 
-<a align="left" href="mailto:clifford.andrew.stevenson@gmail.com">
+<a align="left" href="mailto:cliffstvnsn@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4538?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
 <a href="https://www.linkedin.com/in/cliffordandrewstevenson">
@@ -42,9 +42,8 @@ I'm currently working on a number of projects. Check them out via GitHub or my [
 
 
 
-- 🔭 I’m currently working on ... building a ChatGPT Project in my spare time
-- 🌱 I’m currently learning ... Data Structures and Algorithms 
-- I want to learn Java and iOS development later down the road
+- 🔭 I’m currently working on ... Algo Proficiency, finishing Harvard's CS50x
+- 🌱 I’m currently learning ... Java !
 
 
 
