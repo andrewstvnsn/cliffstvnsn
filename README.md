@@ -22,7 +22,8 @@ My name's Cliff
 - Fitness and Strength training are important to me and definitely help to keep me sane
 - I'm passionate about literature and film. When I have a break from learning a new language or tech-stack, I usually am usually reading, or have something planned to watch.
 - When I'm not working I love to play with my dog Bindi, the English Bull Dog
-- 
+
+
 I'm currently working on a number of projects. Check them out via GitHub or my [portfolio page](https://cliffstevensonsites.online/). <em>I'm currently working on updating my portfolio and previous projects, studying algorithms and preparing for interviews</em>
 
 ### Open to any and all (useful) feedback pertaining to anything programming or design
