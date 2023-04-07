@@ -23,7 +23,7 @@ My name's Cliff
 - When I'm not working I'm with my English Bull Dog, Bindi :dog:
 
 
-I'm currently working on a number of projects. Check them out via GitHub or my [portfolio page](https://cliffstevensonsites.online/). <em>I'm currently working on updating my portfolio and previous projects, studying algorithms and preparing for interviews</em>
+I'm currently working on a number of projects. Check them out via GitHub or my [portfolio page](https://cliffstevensonsites.online/). <em>I'm currently working on updating my portfolio and preparing for interviews</em>
 
 ### Open to any and all (useful) feedback pertaining to anything programming or design
 
