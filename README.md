@@ -16,8 +16,11 @@
 
 My name's Cliff
 - I'm a Full-Stack Software Engineer from Richmond, Virginia.
-- I'm a graduate of Colorado Technical University's Web Development bootcamp '2022 (Coding Dojo)
+- I'm a graduate from Coding Dojo
 - My previous career was in 5-star hospitality
+- I like to lift weights :facepunch:
+:fist_oncoming:
+:punch:
 - I have a Master's degree in Classical Guitar from Trinity College of Music in London
 - Fitness and Strength training is important to me and helps keep me sane
 - When I'm not working I'm with my dog, Bindi: the English Bull Dog
