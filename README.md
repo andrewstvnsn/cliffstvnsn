@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**`Software Engineer (Developer, Web Development)`**
+**`Full-Stack Software Engineer`**
 
 <a align="left" href="mailto:cliffstvnsn@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4538?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -14,7 +14,7 @@
  </a>
 <a href/>
 
-My name's Cliff
+My name is Cliff
 - I'm a Full-Stack Software Engineer from Richmond, Virginia.
 - I'm a graduate from Coding Dojo :ninja:
 - My previous career was in 5-star hospitality :hotel:
