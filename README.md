@@ -19,6 +19,8 @@ My name is Cliff
 - I'm a graduate from Coding Dojo :ninja:
 - I have a Master's degree in Classical Guitar from Trinity College of Music in London :violin:
 - When I'm not working I'm with my English Bull Dog, Bindi :dog:
+- I’m currently working on a music transcription app in Python 🔭
+- I’m currently learning Java ! 🌱
 
 
 I'm currently working on a number of projects. Check them out via GitHub or my [portfolio page](https://cliffstevensonsites.online/). <em>I'm currently working on updating my portfolio and preparing for interviews</em>
@@ -48,8 +50,7 @@ I'm currently working on a number of projects. Check them out via GitHub or my [
 
 
 
-- 🔭 I’m currently working on ... Algo Proficiency, finishing Harvard's CS50x
-- 🌱 I’m currently learning ... Java !
+
 
 
 
