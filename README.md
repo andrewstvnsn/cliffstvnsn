@@ -17,8 +17,6 @@
 My name is Cliff
 - I'm a Full-Stack Software Engineer from Richmond, Virginia.
 - I'm a graduate from Coding Dojo :ninja:
-- My previous career was in 5-star hospitality :hotel:
-- I like to lift weights :facepunch: :fist_oncoming: :punch:
 - I have a Master's degree in Classical Guitar from Trinity College of Music in London :violin:
 - When I'm not working I'm with my English Bull Dog, Bindi :dog:
 
