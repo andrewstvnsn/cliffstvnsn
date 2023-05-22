@@ -17,7 +17,7 @@
 ### My name is Cliff
 - I'm a Full-Stack Software Engineer :computer:
 - I'm a graduate from Coding Dojo :ninja:
-- I have a Master's degree from Trinity College of Music in London :violin:
+- I have a Master's degree from Trinity College of Music :violin:
 - I have an English Bull Dog, Bindi :dog:
 - I’m preparing for interviews 🔭
 - I’m currently learning Java ! 🌱
