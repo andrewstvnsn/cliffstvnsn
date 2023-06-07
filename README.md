@@ -20,7 +20,7 @@
 - I have a Master's degree from Trinity College of Music :violin:
 - I have an English Bull Dog, Bindi :dog:
 - I’m preparing for interviews 🔭
-- I’m currently learning more ! 🌱
+- I’m currently learning React Native ! 🌱
 
 
 I'm currently working on a number of projects. Check them out via GitHub or my [portfolio page](https://cliffstevensonsites.online/). <em>I'm currently working on updating my portfolio and preparing for interviews</em>
