@@ -1,4 +1,4 @@
-<div> class='text-center' # Hi there 👋 </div>
+# Hi there 👋
 
 **`Full-Stack Software Engineer`**
 
