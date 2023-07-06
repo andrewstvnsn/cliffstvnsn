@@ -2,10 +2,10 @@
 
 **`Full-Stack Software Engineer`**
 
-<a align="left" href="mailto:cliffstvnsn@gmail.com">
+<a align="left" href="mailto:andrewcsdeveloper@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4538?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
-<a href="https://www.linkedin.com/in/cliffordandrewstevenson">
+<a href="https://www.linkedin.com/in/andrewstvnsn">
   <img src="https://img.shields.io/badge/LinkedIn-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 <a href/>
@@ -14,13 +14,13 @@
  </a>
 <a href/>
 
-### My name is Cliff
+### My name is Andrew
 - I'm a Full-Stack Software Engineer :computer:
 - I'm a graduate from Coding Dojo :ninja:
 - I have a Master's degree from Trinity College of Music :violin:
 - I have an English Bull Dog, Bindi :dog:
 - I’m preparing for interviews 🔭
-- I’m currently learning React Native ! 🌱
+- I’m currently learning C++ ! 🌱
 
 
 I'm currently working on a number of projects. Check them out via GitHub or my [portfolio page](https://cliffstevensonsites.online/). <em>I'm currently working on updating my portfolio and preparing for interviews</em>
